@@ -1,4 +1,3 @@
-# amadi254.github.io
 
 # Biometric Attendance System Firmware  
 
